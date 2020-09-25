@@ -1,2 +1,2 @@
 # Hacker-rank
-<B>BASIC CODES IN C++.
+<B>BASIC CODING PRACTICE IN C++.
