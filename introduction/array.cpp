@@ -11,6 +11,7 @@ int main() {
   
     int a[1000];
     int n;
+    cout<<"Enter the length of array you want:\n";
     cin>>n;
     for(int i=0; i<n; i++)
     { cin>>a[i];}
